@@ -53,6 +53,8 @@ Data-set description
  7   Country                    object
 Steps involved :
 
+![rfm](https://user-images.githubusercontent.com/103363862/189128901-1ad57cd4-29ad-4afd-9b29-0342c4400e81.jpg)
+
 Handling null values – Data contains lots of null values we have to drop all those null values because we don’t have any strategical intuition to handling those values all canceled order values are also dropped in order to perform segmentation appropriately.
 
 Removing Outliers – We removed outliers which are present in quantity and Unit price in order to group customers appropriately.

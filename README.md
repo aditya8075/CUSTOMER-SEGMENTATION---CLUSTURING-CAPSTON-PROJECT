@@ -113,4 +113,16 @@ Orthogonal: It defines that variables are not correlated to each other, and henc
 Eigenvectors: If there is a square matrix M, and a non-zero vector v is given. Then v will be eigenvector if Av is the scalar multiple of v.
 Covariance Matrix: A matrix containing the covariance between the pair of variables is called the Covariance Matrix.
 
+Conclusion – 
+Diamond Customers – Cluster 2
+These are the most valuable customers for the company.These customers are very Recent also bought
+items very frequently and these customers  bought items in a mass valume.
+ 
+So company need to maitain good relationship with these customers they have to offer discounts and better deals to that customer so that company able to generate more sales from that customer.
+ 
+This customers are more likely to be wholesellers or distributors.
+ 
+Also when company develop any marketing campaign these customers should be the first priority of the company.
+
+
 

@@ -124,5 +124,18 @@ This customers are more likely to be wholesellers or distributors.
  
 Also when company develop any marketing campaign these customers should be the first priority of the company.
 
+Platinum Customers – Cluster 1
+These customers segment is more recent after diamond cluster also they bought more items in in bulk valume .
+ 
+These customer are second most important customer for company after diamond customers.
+ 
+Also company have to bilt strategy to convert these customers into Diamond Customers.
+
+Gold Customers – Cluster 0
+These customers are not reguar customers of company also these customers does not bought items very frequently and they do not bought items in bulk valume.
+ 
+So company give less priority to this customers.
+ 
+Also company built strategy to convert these customer in Platinum customers.
 
 
